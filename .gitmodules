@@ -1,0 +1,18 @@
+[submodule "ast-toolkit-rs"]
+	path = ast-toolkit-rs
+	url = https://github.com/Lut99/ast-toolkit-rs
+[submodule "bytes-rs"]
+	path = bytes-rs
+	url = https://github.com/Lut99/bytes-rs
+[submodule "enum-debug"]
+	path = enum-debug
+	url = https://github.com/Lut99/enum-debug
+[submodule "error-trace-rs"]
+	path = error-trace-rs
+	url = https://github.com/Lut99/error-trace-rs
+[submodule "humanlog-rs"]
+	path = humanlog-rs
+	url = https://github.com/Lut99/humanlog-rs
+[submodule "serializable-rs"]
+	path = serializable-rs
+	url = https://github.com/Lut99/serializable-rs
