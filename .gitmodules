@@ -16,3 +16,6 @@
 [submodule "serializable-rs"]
 	path = serializable-rs
 	url = https://github.com/Lut99/serializable-rs
+[submodule "transform-rs"]
+	path = transform-rs
+	url = https://github.com/Lut99/transform-rs
