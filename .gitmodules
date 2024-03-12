@@ -19,3 +19,12 @@
 [submodule "transform-rs"]
 	path = transform-rs
 	url = https://github.com/Lut99/transform-rs
+[submodule "database-rs"]
+	path = database-rs
+	url = https://github.com/Lut99/database-rs
+[submodule "download-rs"]
+	path = download-rs
+	url = https://github.com/Lut99/download-rs
+[submodule "versioning-rs"]
+	path = versioning-rs
+	url = https://github.com/Lut99/versioning-rs
