@@ -13,6 +13,7 @@ The following libraries are part of this project:
 - [humanlog-rs](https://github.com/Lut99/humanlog-rs): A simple logger for the [log](https://https://docs.rs/log/latest/log/) crate that aims to have a simple user mode and a comprehensive debug mode.
 - [names-rs](https://github.com/Lut99/names-rs): A small library that provides some names useful for sampling random ones.
 - [serializable-rs](https://github.com/Lut99/serializable-rs): Provides a helper trait for [serde](https://serde.rs) types that makes working with them slightly nicer.
+- [stackvec-rs](https://github.com/Lut99/stackvec-rs): A small Rust library that provides a stack-allocated vector that is much faster in allocation at the cost of flexibility.
 - [transform-rs](https://github.com/Lut99/transform-rs): A small Rust library that defined the `TransformIter`-iterator, which can map an element in a tuple to zero or more elements of a potentially different type.
 - [versioning-rs](https://github.com/Lut99/versioning-rs): A powerful macro that generates dynamic copies of Rust elements to generate variants for e.g. different versions of the same spec.
 

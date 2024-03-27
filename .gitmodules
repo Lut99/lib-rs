@@ -28,3 +28,6 @@
 [submodule "versioning-rs"]
 	path = versioning-rs
 	url = https://github.com/Lut99/versioning-rs
+[submodule "stackvec-rs"]
+	path = stackvec-rs
+	url = git@github.com:Lut99/stackvec-rs
