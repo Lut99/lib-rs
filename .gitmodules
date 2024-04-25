@@ -31,3 +31,6 @@
 [submodule "stackvec-rs"]
 	path = stackvec-rs
 	url = git@github.com:Lut99/stackvec-rs
+[submodule "names-rs"]
+	path = names-rs
+	url = git@github.com:Lut99/names-rs
