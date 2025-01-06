@@ -34,3 +34,12 @@
 [submodule "names-rs"]
 	path = names-rs
 	url = git@github.com:Lut99/names-rs
+[submodule "debug-rs"]
+	path = debug-rs
+	url = https://github.com/Lut99/debug-rs
+[submodule "auto-traits-rs"]
+	path = auto-traits-rs
+	url = https://github.com/Lut99/auto-traits-rs
+[submodule "literal-arithmetic-rs"]
+	path = literal-arithmetic-rs
+	url = https://github.com/Lut99/literal-arithmetic-rs

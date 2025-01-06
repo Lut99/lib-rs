@@ -5,12 +5,15 @@ A collection of Rust libraries that are useful across (my) projects.
 ## Libraries
 The following libraries are part of this project:
 - [ast-toolkit-rs](https://github.com/Lut99/ast-toolkit-rs): A collection of structs and interfaces extremely useful when working with compilers that parse text into ASTs.
+- [auto-traits-rs](https://github.com/Lut99/auto-traits-rs): A collection of macros for automatically (blanket) implementing certain traits.
 - [bytes-rs](https://github.com/Lut99/bytes-rs): Adds a Rust derive macro that can be used to easily parse & serialize header-like bytes that have specified order and interpretation.
-- [database-rs](https://github.com/Lut99/database-rs): Defines some tools to make working with (My)SQL(ite) easier.
+- [database-rs](https://github.com/Lut99/database-rs): Defines some tools to make working with (My)SQL(ite) easier. _(archived)_
+- [debug-rs](https://github.com/Lut99/database-rs): Defines an alternative to the builtin `Debug`-derive macro that applies more lenient bounds on generics.
 - [download-rs](https://github.com/Lut99/download-rs): Contributes a few functions that do typical GET HTTP requests to download files and to manage them (e.g., (un)archival).
 - [enum-debug](https://github.com/Lut99/enum-debug): Simple Rust crate that implements EnumDebug, which can automatically derive a formatter for enum variant names only.
 - [error-trace-rs](https://github.com/Lut99/error-trace-rs): Small Rust crate for printing nice errors traits based on [`Error::source()`].
 - [humanlog-rs](https://github.com/Lut99/humanlog-rs): A simple logger for the [log](https://https://docs.rs/log/latest/log/) crate that aims to have a simple user mode and a comprehensive debug mode.
+- [literal-arithmetic-rs](https://github.com/Lut99/literal-arithmetic-rs): A small library that provides a macro for doing simple arithmetic on literals.
 - [names-rs](https://github.com/Lut99/names-rs): A small library that provides some names useful for sampling random ones.
 - [serializable-rs](https://github.com/Lut99/serializable-rs): Provides a helper trait for [serde](https://serde.rs) types that makes working with them slightly nicer.
 - [stackvec-rs](https://github.com/Lut99/stackvec-rs): A small Rust library that provides a stack-allocated vector that is much faster in allocation at the cost of flexibility.
